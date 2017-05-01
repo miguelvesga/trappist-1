@@ -1,1 +1,1 @@
-# trappist-1
+# TRAPPIST-1
