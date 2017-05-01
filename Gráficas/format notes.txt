@@ -1,0 +1,5 @@
+Para el planeta b, c y d(1):
+Time from mid-transit (day)	/ Flux	/ Error	/ Instrument	/ Filter
+
+Para d(2), e, f, g:
+Time from best-fit mid-transit ephemeris (d) /	Flux  /	Error  /  Instrument /	Filter / Transit epoch
